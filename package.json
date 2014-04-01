@@ -1,0 +1,19 @@
+{
+  "name": "chatty",
+  "version": "0.0.1",
+  "description": "Chatty App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Real-time",
+    "Chat"
+  ],
+  "author": "Jia-He Jou",
+  "dependencies": {
+    "sockjs": "0.3.8",
+    "redis": "0.10.1",
+    "hiredis": "0.1.16"
+  }
+}
